@@ -1,0 +1,1 @@
+# itscam600plugins
