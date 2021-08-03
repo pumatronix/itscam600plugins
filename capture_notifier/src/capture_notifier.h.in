@@ -1,0 +1,19 @@
+/*
+ *  capture_notifier.h
+ *
+ *  Created on: Dec 01, 2020
+ *      Author: Eduardo Almeida - Pumatronix
+ *
+ *  Capture Notifier Plugin Example
+ *
+ */
+#ifndef __CAPTURE_NOTIFIER_H__
+#define __CAPTURE_NOTIFIER_H__
+
+//==============================================================================
+// DEFINES
+//==============================================================================
+#define PLUGIN_VERSION_MAJOR @capture_notifier_VERSION_MAJOR@
+#define PLUGIN_VERSION_MINOR @capture_notifier_VERSION_MINOR@
+
+#endif /* __CAPTURE_NOTIFIER_H__ */
