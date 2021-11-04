@@ -1,0 +1,19 @@
+/*
+ *  protocol_webservice_multipart.h
+ *
+ *  Created on: Nov 02, 2021
+ *      Author: Alexandre Krzyzanovski - Pumatronix
+ *
+ *  Protocol to WebService Multipart header
+ *
+ */
+#ifndef __PROTOCOL_WEBSERVICE_MULTIPART_H__
+#define __PROTOCOL_WEBSERVICE_MULTIPART_H__
+
+//==============================================================================
+// DEFINES
+//==============================================================================
+#define PLUGIN_VERSION_MAJOR @protocol_webservice_multipart_VERSION_MAJOR@
+#define PLUGIN_VERSION_MINOR @protocol_webservice_multipart_VERSION_MINOR@
+
+#endif /* __PROTOCOL_WEBSERVICE_MULTIPART_H__ */

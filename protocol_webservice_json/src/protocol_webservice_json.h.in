@@ -1,0 +1,19 @@
+/*
+ *  protocol_webservice_json.h
+ *
+ *  Created on: Nov 02, 2021
+ *      Author: Alexandre Krzyzanovski - Pumatronix
+ *
+ *  ITSCAM Protocol to WebService REST JSON Plugin Example
+ *
+ */
+#ifndef __PROTOCOL_WEBSERVICE_JSON_H__
+#define __PROTOCOL_WEBSERVICE_JSON_H__
+
+//==============================================================================
+// DEFINES
+//==============================================================================
+#define PLUGIN_VERSION_MAJOR @protocol_webservice_json_VERSION_MAJOR@
+#define PLUGIN_VERSION_MINOR @protocol_webservice_json_VERSION_MINOR@
+
+#endif /* __PROTOCOL_WEBSERVICE_JSON_H__ */
