@@ -1,0 +1,6 @@
+rtsp: yes
+
+paths:
+  stream:
+    source: http://172.17.0.1/playlist.m3u8
+    runOnReady: sh /usr/local/bin/entrypoint.sh
